@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Library Builder"
+  short_description: "Build and audit reproducible literature libraries"
+  default_prompt: "Use $research-library-builder to export, import, deduplicate, and verify a research literature library."
